@@ -1,0 +1,9 @@
+[% META
+	title = 'Solutions'
+%]
+
+
+			<div class="rubrik_left_big">
+			<h3>[% template.title %]</h3>
+			
+				

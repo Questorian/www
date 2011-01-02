@@ -1,0 +1,23 @@
+v0.5 - 2011-01-02 15:44:46 
+* updated to 2011 in date footer
+* moved to new WFT setup
+*
+
+
+QuestorSystems.com v0.4  2008-05-18 03:45 
+* Google Analytics code installed in template - new js script - ga.js
+
+QuestorSystems.com v0.3  2008-05-18 01:16 
+* Added the web DashBoard feature - PayPal, Aweber, Elance & Rent-a-coder
+* Added Postfach address - removed real address for privacy reasons
+* Added contact form, with field checking, and emailing of form - All done in Perl with CGI module
+* Added Skype contact details
+
+QuestorSystems.com v0.2  2008-05-01 18:28 
+* Added a contact page - bank details, ftp servers, and phone number contacts
+* Tidied up other pages
+* Generally increased "credibility" of Questor website
+d
+QuestorSystems.com v0.1  2007-11-20 19:24 
+
+First clean release - Enjoy

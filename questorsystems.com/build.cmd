@@ -1,0 +1,1 @@
+ ttree -f .ttreerc %*

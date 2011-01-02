@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+
+<head>
+<title>[W3DB] Email Accounts</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="Author" content="" />
+<meta name="Robots" content="index,follow" />
+<meta name="Description" content="" />
+<meta name="Keywords" content="" />
+<link rel="stylesheet" type="text/css" href="" />
+<!-- link rel="stylesheet" type="text/css" href="/images/style.css" / -->
+<link rel="shortcut icon" href="http://www.questorsystems.com/images/favicon3.ico" type="image/vnd.microsoft.icon" />
+</head>
+
+
+<body>
+
+<form action="http://www.questorsystems.com/cgi-bin/wbt2-cl-EmailAccounts.pl">
+<div>DNS Domain Name (without the 'www' prefix) : <input name="domain" size="40"></div>
+<div>Any extra email accounts you would like    : <textarea name="extra_emails" rows="5" cols="40"></textarea></div>
+<div><input type="submit"></div>
+</form>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+<h5>2010-05-21: Google TV Announced</h5>
+
+<p>Google has officially unveiled Google TV, ending months of speculation with a platform that will be available on both set-top boxes and built directly into some televisions, featuring a built-in Chrome browser and the ability to search for videos from across the Internet, as well as browse programmes on the user's DVR and television EPG.</p>
+<br>
+
+<p>Unveiling the new platform at its Google I/O developer conference in San Francisco yesterday, Google challenged Web developers to start coming up with new apps designed specifically for the TV experience, and stated that it plans to release the Google TV software development kit (SDK) and Web application programming interfaces (APIs) for TV, so that developers can build rich applications and distribute them through the Android market.</p>
+<br>
+
+<p>Google also revealed that it has started building strategic alliances with a number of companies, including Jinni.com and Rovi, and is cooperating with Sony and Logitech to put Google TV inside televisions, Blu-ray players and companion boxes.  Devices which support the new platform are expected to go on sale this autumn</p>
+
+<br>
+<p>For more details, see: <a href="http://www.google.com/tv">google.com/tv</a>
+</p>
+

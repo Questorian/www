@@ -1,0 +1,10 @@
+
+[% 
+	USE Date(format = '%Y-%m-%dT%H:%M:%S' locale = 'de_CH')
+%]
+
+			<div id="footer">
+
+					&lt; Copyright  &copy; [% site.start_year %]-[% site.end_year %] :: <a href="[% site.company_url %]">[% site.company_name %]</a> ::  - [% template.name -%] - [% Date.format(template.modtime) %] &gt;
+
+			</div>

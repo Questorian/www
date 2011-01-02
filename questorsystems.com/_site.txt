@@ -1,0 +1,21 @@
+
+[% site = {
+
+	newsletter_name = 'The IPTV Bugler'
+
+
+	author = 'Team-Questor'
+	company_name_legal = 'Questor Systems GmbH'
+	company_name = 'QuestorSystems'
+	company_name_short = 'Questor'
+	company_url = 'http://www.QuestorSystems.com'
+	company_url_short = 'QuestorSystems.com'
+	company_tel = '+41 79 285 6482'
+	company_fax = '+41 79 285 6482'
+	company_tel_CH = '+41 79 285 6482'
+	skype_id = 'Questorian'
+	start_year = 1997
+	end_year = 2010
+	}
+
+-%]

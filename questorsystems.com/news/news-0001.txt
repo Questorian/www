@@ -1,0 +1,10 @@
+<h5>2007-11-06: Five years of negotiation lands Microsoft $500M contract</h5>
+
+<p>Five years of discussions finally saw Indian communications giant Reliance sign up to Microsoft's IPTV software, MediaRoom for a cool $500 million.</p>
+
+<p>The contract was an important win for Microsoft--CEO Steve Balmer flew to India for the ceremony--and comes as it has struggled to win acceptance for its IPTV software in the face of stiff competition. Microsoft may have some big name clients such as BT and Singtel, but after 10 years of investing in various flavors of TV software the sector still is strangely reluctant to embrace the PC giant.</p>
+
+<p>So, too, it seems is Microsoft. It curiously had no exhibit at the recent TelcoTV event in Atlanta--instead it had an office in the back of the show--a fact widely noticed by several of the carriers shopping for new deployment infrastructure.</p>
+
+<p>Reliance first announced its plans to hook up to 1.7 million business and residential buildings to its fiber access network back in 2003. Microsoft had been expected to win the Reliance  deal after Reliance had trialled the Microsoft software in a 20,000 trial to test market acceptance. Broadband is still undeveloped in India with only 2.6 million connections in a population of over one billion.</p>
+				

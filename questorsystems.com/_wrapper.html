@@ -1,0 +1,153 @@
+[% PROCESS _site.txt %]
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>[% site.company_name_short %] IPTV :: [% template.title %] :: [% site.author %]</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="Author" content="[% site.company_name %]" />
+<meta name="Robots" content="index,follow" />
+<meta name="Description" content="Questor IPTV Microsoft Mediaroom - [% template.title %]" />
+<meta name="Keywords" content="IPTV, Internet Protocol Television, VoD, MSTV, Windows Media, Mediaroom, Video-on-Demand, Video on Demand, EPG, Branch, Service Group, A-Server, D-Server, VLAN, Multicast, Unicast, IGMP, core network, STB, set top box, HDMI, HD, H.264, headend, MPEG4, MPEG2, SCART" />
+<link rel="stylesheet" type="text/css" href="/images/style.css" />
+<link rel="shortcut icon" href="[% site.company_url %]/images/favicon2.ico" type="image/vnd.microsoft.icon" />
+<title>Questor Systems</title>
+</head>
+<body>
+	<div id="bg">
+		<div id="top">
+			<div id="top_title">
+
+				<div id="title">
+					<a href="#"><img src="/images/hQuestorSystems.gif" alt="Questor Systems GmbH logo" /></a> <span class="blue"></span>
+				</div>
+
+				Your Television Future with IPTV, Today
+
+				<!--form action="search" />
+				  EN | FR | DE | IT -->
+
+
+<!--
+<script type="text/javascript">
+//domain of site to search.
+var domainroot="www.questor.ch"
+function Gsitesearch(curobj){
+curobj.q.value="site:"+domainroot+" "+curobj.qfront.value
+}
+</script>
+
+<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+<input name="qfront" type="text" width="40%" title="search questor.ch" /> 
+<input type="submit"  value="Search" title="Type some text in the box, hit the button!" />
+</form>
+-->
+
+
+			</div>
+			<div id="foto">
+			<img src="/images/pic07.jpg" alt="Satellite headend installation" title="Satellite headend installation" />
+
+    		<img src="/images/pic01.jpg" alt="IRD (integrated Receiver/Decoder) Management" title="IRD (integrated Receiver/Decoder) Management" width="100" height="75" />
+			<img src="/images/pic02.jpg" alt="Encoder Installation &amp; Configuration Management" title="Encoder Installation &amp; Configuration Management" />
+			<img src="/images/pic06.jpg" alt="IPTV Core Network design" title="IPTV Core Network design" />
+			<img src="/images/pic05.jpg" alt="IPTV Middleware Platform staging, management &amp; OSS/BSS Integration" title="IPTV Middleware Platform staging, management &amp; OSS/BSS Integration" />
+			<img src="/images/pic03.jpg" alt="STB (Set Top Box) Testing, Customisation and Application Development" title="STB (Set Top Box) Testing, Customisation and Application Development" />
+			<img src="/images/pic12.jpg" alt="Terminal End-Points - TV, Video, and Mobile-Handsets" title="Terminal End-Points - TV, Video, and Mobile-Handsets" />
+			</div>
+
+<script type="text/javascript">
+// <![CDATA[ 
+/*
+ * Get the current date - and display it
+ */
+var mydate=new Date()
+var year=mydate.getYear()
+if (year < 1000)
+year+=1900
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+document.write("<small><b>"+dayarray[day]+" "+daym+" "+montharray[month]+"  "+year+"</b></small>")
+// ]]> 
+</script>
+
+
+
+			<div id="navig">
+				<ul>
+					<li><a href="/index.html">Home</a></li>
+					<li><a href="/solutions.html">Solutions</a></li>
+					<li><a href="/links.html">Links</a></li>
+					<li><a href="/clients.html">Clients</a></li>
+					<li><a href="/contact.html">Contact</a></li>
+					<li><a href="/find.html">How to find us</a></li>
+
+				</ul>
+
+<b>Questor Internal:</b>
+
+				<ul>
+					<li><a href="/cpanel/index.html">W3DB</a></li>
+
+				</ul>
+
+
+
+
+				<div class="textleft">
+					<h3>Contact</h3>
+						<p />
+					<div id="infobox">
+					<b>Questor Systems</b><br />
+           			Sempacherstr. 47<br />
+					<p>Suite #372</p>
+					<p>CH-4008, Basel</p>
+					<p>Switzerland</p>
+					<p /><p>&nbsp;</p>
+					T: [% site.company_tel %]<br />
+					F: [% site.company_fax %]<br />
+					<p /><p>&nbsp;</p>
+					<center><small><a href="http://www.questorsystems.com/contact.html">Full Contact Details</a></small></center>
+					</div>
+				</div>
+			</div>
+
+			<div id="pic">
+               <p>&nbsp;</p>
+			   <p><em><b>"Working together, to create better IPTV solutions..."</b></em>   -   Questor Systems is a company committed to excellence in the area of Internet Protocol Television (IPTV). Specialists in infrastructure design and deployment, from head-end installation, core network implementations, to terminal end-points and customer premises equipment.</p>
+
+
+			</div>
+
+			<!-- Insert the content here -->
+			[% content %]
+
+			<!--<div id="downbox">
+			<p>blabllllba dadf , <a href="#">faure hfjd fdksl ag</a>, blablablab lablablabkla bkabf&ouml;a blablablab lablablabkla bkabf&ouml;a blablablab lablablabkla bkabf&ouml;a blablablab lablablabkla bkabf&ouml;atblablablab lablablabkla bkabf&ouml;a blablablab lablablabkla bkabf&ouml;a blablablab lablablabkla bkabf&ouml;a blablablab lablablabkla bkabf&ouml;atate.</p>
+			</div>-->
+			
+			<!-- Print the page -->
+			[% PROCESS _pageinfo.html %]
+		
+		</div>
+	</div>
+
+<!-- GOOG: Analytics gode is here
+		The new version - ga.js
+		-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4445231-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

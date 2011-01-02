@@ -1,0 +1,31 @@
+<h5>2009-01-13: Networks ready for HD programming pile-up?</h5>
+
+<p>High-definition television always has been viewed as a nice benefit of new TV
+delivery technologies, but 2008 may prove to be the year HDTV becomes a
+significant battlefield in the competitive war between telco IPTV players and
+their cable TV foes. The race to supply consumers with the most HDTV channels
+and hours of on-demand HD programming may have been sparked by Verizon
+Communications, which announced late last year it would deliver 150 linear HDTV
+channels by the end of this year. However, Verizon may have been responding to
+more subtle HTDV upticks from cable TV and satellite TV firms.
+</p>
+
+<br>
+
+
+<p>While providers continue to pile on the HD channels and programming hours, it
+is worth wondering how an abundance of HDTV could affect network bandwidth and
+provider set-top box offerings. With its FiOS network, Verizon claims to be
+built for high volumes of HD programming, though it also primarily has MPEG-2
+set-top boxes in circulation, much less efficient than MPEG-4 boxes at handling
+that programming. Cable TV companies are in the midst of rolling out network
+upgrades to better support growing HD traffic, and the analog-to-digital
+transition will help.
+</p>
+
+<br>
+
+<p>For more details, see: <a href="http://www.google.com/tv">google.com/tv</a>
+</p>
+
+<br>
